@@ -24,7 +24,7 @@ requests==2.22.0
 Rx==1.6.1
 six==1.12.0
 starlette==0.12.8
-ujson==1.35
+ujson==5.2.0
 urllib3==1.25.5
 uvicorn==0.9.0
 uvloop==0.13.0
